@@ -66,7 +66,7 @@ Split dataset into training and testing data using:
 
 test_size = 0.2
 
-random_state = 2
+random_state = 42
 
 5️⃣ Model Training
 
